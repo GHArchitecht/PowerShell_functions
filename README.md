@@ -1,4 +1,4 @@
-# PowerShell Code Repository
+# PowerShell Garage Repository
 Welcome to the PowerShell Code Repository! This repository is a comprehensive collection of various PowerShell scripts, modules, and one-liners designed to enhance your scripting experience and simplify your workflow. Whether you're an IT professional, system administrator, or developer, you'll find useful resources to automate tasks, manage systems, and improve productivity.
 
 ## Contents
