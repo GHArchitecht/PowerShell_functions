@@ -15,9 +15,9 @@ Documentation: Comprehensive documentation and examples for each script and modu
 ## Getting Started
 To get started, simply clone the repository and explore the different folders to find the scripts, modules, and one-liners that suit your needs. Each item includes detailed instructions and examples to help you get the most out of the code.
 
-
-git clone https://github.com/your-username/PowerShell-Code-Repository.git
-
+```
+  git clone https://github.com/your-username/PowerShell-Code-Repository.git
+```
 ## Contributing
 We welcome contributions from the community! If you have a useful PowerShell script, module, or one-liner that you would like to share, please feel free to submit a pull request. Make sure to include documentation and examples to help others understand and use your code.
 
